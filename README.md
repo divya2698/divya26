@@ -46,7 +46,6 @@ Here are some of the technologies and tools I work with:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/divyaprajapati26)
-- [Twitter](https://twitter.com/your-twitter-handle)
 - [Email](mailto:prajapati.di@northeastern.edu)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
